@@ -13,7 +13,5 @@ window.intlTelInput(input, {
       callback(countryCode);
     });
   },
-  utilsScript: "../../build/js/utils.js?1603274336113" 
+  utilsScript: "build/js/utils.js"
 });
-var iti = intlTelInput(input)
-var countryData = iti.getSelectedCountryData()
