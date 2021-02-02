@@ -99,11 +99,11 @@ main {
 }
 .slick-arrow.slick-prev {
   left: 0;
-  background: url("../img/left.svg") 0 0 / 100% no-repeat;
+  background: url("../img/left_a.svg") 0 0 / 100% no-repeat;
 }
 .slick-arrow.slick-next {
   right: 0;
-  background: url("../img/right.svg") 0 0 / 100% no-repeat;
+  background: url("../img/right_a.svg") 0 0 / 100% no-repeat;
 }
 .slick-arrow.slick-disabled {
   opacity: 0.2;
