@@ -103,7 +103,7 @@ main {
 }
 .slick-arrow.slick-next {
   right: 0;
-  background: url("../img/right.svg") 0 0 / 100% no-repeat;
+  background: url("../img/r.svg") 0 0 / 100% no-repeat;
 }
 .slick-arrow.slick-disabled {
   opacity: 0.2;
